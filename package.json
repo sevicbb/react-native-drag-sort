@@ -23,9 +23,7 @@
   ],
   "author": "mochixuan",
   "license": "ISC",
-  "dependencies": {
-    "react-native-double-tap": "^1.0.1"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "bugs": {
     "url": "https://github.com/mochixuan/react-native-drag-sort/issues"
